@@ -1,0 +1,5 @@
+name: sample-java-app-maven
+packages:
+  - path: com.mycompany.app
+language: java
+appmap_dir: tmp/appmap
